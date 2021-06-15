@@ -1,3 +1,5 @@
-##Proyecto Final - Computación Gráfica
+# Proyecto Final - Computación Gráfica
 
-Recreación de casa de Andy de Toy Story
+## Fachada Casa de Andy - Toy Story
+
+En este proyecto se realizará la recreación de la casa de Andy de Toy Story utilizando ambientes gráficos. 
