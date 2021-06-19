@@ -1,0 +1,23 @@
+Directorios de inclusión adicionales
+$(SolutionDir)/External Libraries/GLEW/include
+$(SolutionDir)/External Libraries/GLFW/include
+$(SolutionDir)/External Libraries/glm
+$(SolutionDir)/External Libraries/assimp/include
+
+Vinculador
+Directorios de bibliotecas adicionales
+$(SolutionDir)/External Libraries/GLEW/lib/Release/Win32
+$(SolutionDir)/External Libraries/GLFW/lib-vc2015
+$(SolutionDir)/External Libraries/glm
+$(SolutionDir)/External Libraries/SOIL2/lib
+$(SolutionDir)/External Libraries/assimp/lib
+
+
+Entrada
+assimp-vc140-mt.lib;opengl32.lib;glew32.lib;glfw3.lib;soil2-debug.lib;
+
+Header
+//Martinez Gutierrez Carlos Giovanni
+//315273203
+//Grupo 9
+//Reporte Práctica 4. Modelado Geométrico
