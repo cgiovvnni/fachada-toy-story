@@ -3,6 +3,7 @@ $(SolutionDir)/External Libraries/GLEW/include
 $(SolutionDir)/External Libraries/GLFW/include
 $(SolutionDir)/External Libraries/glm
 $(SolutionDir)/External Libraries/assimp/include
+$(SolutionDir)/External Libraries/irrKlang/include
 
 Vinculador
 Directorios de bibliotecas adicionales
@@ -11,10 +12,10 @@ $(SolutionDir)/External Libraries/GLFW/lib-vc2015
 $(SolutionDir)/External Libraries/glm
 $(SolutionDir)/External Libraries/SOIL2/lib
 $(SolutionDir)/External Libraries/assimp/lib
-
+$(SolutionDir)/External Libraries/irrKlang/lib/Win32-visualStudio
 
 Entrada
-assimp-vc140-mt.lib;opengl32.lib;glew32.lib;glfw3.lib;soil2-debug.lib;
+assimp-vc140-mt.lib;opengl32.lib;glew32.lib;glfw3.lib;soil2-debug.lib;irrKlang.lib;
 
 Header
 //Martinez Gutierrez Carlos Giovanni
